@@ -179,4 +179,4 @@ awards:
 
 ## About Me
 
-I am a Political Communication researcher that employs Computational methods to address questions related to value-based and symbolic politics. I am currently working on several 
+I am a Political Communication researcher that employs Computational methods to address questions related to value-based and symbolic politics. I am currently working on  
