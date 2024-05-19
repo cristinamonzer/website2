@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Cristina Monzer
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Cristina
+last_name: Monzer
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,53 +20,49 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Norwegian University of Science and Technology
+    url: https://www.ntnu.no/iss/institutt-for-sosiologi-og-statsvitenskap
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:cristina.monzer@examplntnu.no'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/CristinaMonzer
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/cristinamonzer
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=jgIpKNwAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-2479-4063
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Symbolic and value-based politics
+  - Computational methods
+  - Semiotics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Political Science
+    institution: Norwegian University of Science and Technology
+    date_start: 2019-02-01
+    date_end: 2024-09-13
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      My dissertation investigates political and media communication on social media during Covid-19 and its effects on audiences -- "Aligning and deviating voices: Toward a theory of cultural resonance in political communication". Supervised by [Stefan Geiss](https://www.ntnu.no/ansatte/stefan.geiss), [Toril Aalberg](https://www.ntnu.no/ansatte/toril.aalberg) and [Christian Baden](https://scholars.huji.ac.il/christianbaden/home).
     button:
-      text: 'Read Thesis'
+      text: 'Read Dissertation'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: M.Sc. Communication Science
+    institution: University of Amsterdam
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      Grade: 7.8
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
