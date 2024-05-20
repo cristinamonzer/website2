@@ -48,7 +48,7 @@ interests:
   - Computational methods
 
 education:
-  - area: **PhD Political Science**
+  - area: PhD Political Science
     institution: Norwegian University of Science and Technology
     date_start: 2019-02-01
     date_end: 2024-09-13
@@ -57,7 +57,7 @@ education:
     button:
       text: 'Read Dissertation'
       url: 'https://example.com'
-  - area: **M.Sc. Communication Science**
+  - area: M.Sc. Communication Science
     institution: University of Amsterdam
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -68,7 +68,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: **B.A. Sociology**
+  - area: B.A. Sociology
     institution: Ludwig-Maximilians University Munich
     date_start: 2016-01-01
     date_end: 2020-12-31
