@@ -53,7 +53,7 @@ education:
     date_start: 2019-02-01
     date_end: 2024-09-13
     summary: |
-      My dissertation investigates political and media communication on social media during Covid-19 and its effects on audiences -- "Aligning and deviating voices: Toward a theory of cultural resonance in political communication". Supervised by [Stefan Geiss] (https://www.ntnu.no/ansatte/stefan.geiss), [Toril Aalberg] (https://www.ntnu.no/ansatte/toril.aalberg) and [Christian Baden] (https://scholars.huji.ac.il/christianbaden/home).
+      My dissertation investigates political and media communication on social media during Covid-19 and its effects on audiences -- "Aligning and deviating voices: Toward a theory of cultural resonance in political communication". Supervised by [Stefan Geiss](https://www.ntnu.no/ansatte/stefan.geiss) , [Toril Aalberg](https://www.ntnu.no/ansatte/toril.aalberg) and [Christian Baden](https://scholars.huji.ac.il/christianbaden/home) .
     button:
       text: 'Read Dissertation'
       url: 'https://example.com'
