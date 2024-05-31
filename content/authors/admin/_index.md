@@ -85,7 +85,7 @@ work:
     company_logo: ''
     date_start: 2023-01-13
     date_end: ''
-    summary: |2-
+    summary: |3-
       Responsibilities include:
       - Georeferencing historical maps for Africa and Asia (1750-1920)
       - Extracting information on historical polities with NLP techniques
@@ -95,7 +95,7 @@ work:
     company_logo: ''
     date_start: 2020-01-01
     date_end: 2020-05-31
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Lecturing on communicator-focused research topics
       - Seminars centred on conducting a quantitative content analysis of media texts
