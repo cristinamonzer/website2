@@ -85,7 +85,7 @@ work:
     company_logo: ''
     date_start: 2023-01-13
     date_end: ''
-    summary: |3-
+    summary: |2-
       Responsibilities include:
       - Georeferencing historical maps for Africa and Asia (1750-1920)
       - Extracting information on historical polities with NLP techniques
@@ -99,16 +99,6 @@ work:
       Responsibilities include:
       - Lecturing on communicator-focused research topics
       - Seminars centred on conducting a quantitative content analysis of media texts
- - position: Junior lecturer
-    company_name: University of Amsterdam
-    company_url: ''
-    company_logo: ''
-    date_start: 2018-09-01
-    date_end: 2019-01-31
-    summary: |
-      Responsibilities include:
-      - Tutorials in bachelor's class Methods of communication research and statistics
-      - Tutorials in pre-master's class Introduction to research methodology
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
