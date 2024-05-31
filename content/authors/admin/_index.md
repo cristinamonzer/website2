@@ -59,49 +59,56 @@ education:
       url: 'https://example.com'
   - area: M.Sc. Communication Science
     institution: University of Amsterdam
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2016-09-01
+    date_end: 2020-08-31
     summary: |
       Grade: 7.8
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: B.A. Sociology
-    institution: Ludwig-Maximilians University Munich
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Specialization:
+      - Political Communication and Journalism Studies
+      - Methodology and Research-intensive program
+  - area: B.A. Sociology and Communication Science
+    institution: Ludwig-Maximilian University Munich (LMU)
+    date_start: 2012-10-01
+    date_end: 2016-08-31
     summary: |
-      Grade: 2.3
+      Grade: 1.98
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Specialization:
+      - Journalism Studies
+      - Sociology of Gender and Religion
+      - International migration
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Researcher in the ERC project LEGACIES
+    company_name: Norwegian University for Science and Technology
+    company_url: 'https://www.legacies-project.com/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-01-13
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Georeferencing historical maps for Africa and Asia (1750-1920)
+      - Extracting information on historical polities with NLP techniques
+  - position: Teaching assistant in Media Sociology
+    company_name: Norwegian University for Science and Technology
+    company_url: 'https://www.ntnu.edu/iss/about'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-01-01
+    date_end: 2020-05-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Lecturing on communicator-focused research topics
+      - Seminars centred on conducting a quantitative content analysis of media texts
+ - position: Junior lecturer
+    company_name: University of Amsterdam
+    company_url: 'https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/organisation/disciplines/communication-science.html'
+    company_logo: ''
+    date_start: 2018-09-01
+    date_end: 2019-01-31
+    summary: |
+      Responsibilities include:
+      - Tutorials in bachelor's class Methods of communication research and statistics
+      - Tutorials in pre-master's class Introduction to research methodology
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -109,17 +116,17 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
+        description: 'NLP, unsupervised and supervised ML'
+        percent: 75
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
+      - name: R
+        description: 'multilevel data analysis, data visualization'
+        percent: 75
+        icon: iconR
+      - name: QGIS
+        description: 'georeferencing historical maps'
         percent: 40
-        icon: circle-stack
+        icon: iconQgis
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -138,11 +145,13 @@ skills:
         icon: camera
 
 languages:
+  - name: Romanian
+    percent: 100
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: German
+    percent: 90
+  - name: Norwegian
     percent: 25
 
 # Awards.
