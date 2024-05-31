@@ -95,7 +95,7 @@ work:
     company_logo: ''
     date_start: 2020-01-01
     date_end: 2020-05-31
-    summary: |
+    summary: |2-
       Responsibilities include:
       - Lecturing on communicator-focused research topics
       - Seminars centred on conducting a quantitative content analysis of media texts
