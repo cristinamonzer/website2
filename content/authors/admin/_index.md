@@ -108,15 +108,15 @@ skills:
       - name: Python
         description: 'NLP, unsupervised and supervised ML'
         percent: 75
-        icon: code-bracket
+        icon: python
       - name: R
         description: 'multilevel data analysis, data visualization'
         percent: 75
-        icon: iconR
+        icon: r
       - name: QGIS
         description: 'georeferencing historical maps'
         percent: 40
-        icon: iconQgis
+        icon: stackoverflow
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -129,10 +129,10 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Reading
         description: ''
-        percent: 80
-        icon: camera
+        percent: 100
+        icon: book-open
 
 languages:
   - name: Romanian
