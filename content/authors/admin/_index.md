@@ -112,7 +112,7 @@ skills:
       - name: R
         description: 'multilevel data analysis, data visualization'
         percent: 75
-        icon: rstudio
+        icon: code-bracket
       - name: QGIS
         description: 'georeferencing historical maps'
         percent: 40
