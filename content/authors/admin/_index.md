@@ -101,7 +101,7 @@ work:
       - Seminars centred on conducting a quantitative content analysis of media texts
  - position: Junior lecturer
     company_name: University of Amsterdam
-    company_url: 'https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/organisation/disciplines/communication-science.html'
+    company_url: ''
     company_logo: ''
     date_start: 2018-09-01
     date_end: 2019-01-31
