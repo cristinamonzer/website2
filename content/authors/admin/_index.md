@@ -112,11 +112,11 @@ skills:
       - name: R
         description: 'multilevel data analysis, data visualization'
         percent: 75
-        icon: r
+        icon: rstudio
       - name: QGIS
         description: 'georeferencing historical maps'
         percent: 40
-        icon: stackoverflow
+        icon: flag
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
