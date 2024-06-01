@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "5rem"
+  spacing: "3rem"
 
 sections:
   - block: resume-biography-3
@@ -84,7 +84,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: card
+      view:
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
