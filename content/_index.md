@@ -53,7 +53,7 @@ sections:
  - block: collection
     id: projects
     content:
-      title: Ongoing projects
+      title: Selected projects
       filters:
         folders:
           - project
