@@ -50,16 +50,6 @@ sections:
     design:
       view: article-grid
       columns: 1
- - block: collection
-    id: projects
-    content:
-      title: Ongoing Projects
-      filters:
-        folders:
-          - project
-    design:
-      view: article-grid
-      columns: 3
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
