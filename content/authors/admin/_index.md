@@ -117,22 +117,22 @@ skills:
         description: 'georeferencing historical maps'
         percent: 40
         icon: flag
-  - name: Hobbies
+  - name: Data analysis
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Reading
-        description: ''
-        percent: 100
-        icon: book-open
+      - name: Statistical modeling
+        description: 'multilevel models, negative binomial regressions'
+        percent: 95
+        icon: table-cells
+      - name: Qualitative text analysis
+        description: '(linguistic) discourse analysis, grounded theory'
+        percent: 95
+        icon: rectangle-group
+      - name: Qualitative data collection
+        description: 'interviews, focus groups'
+        percent: 95
+        icon: users
 
 languages:
   - name: Romanian
