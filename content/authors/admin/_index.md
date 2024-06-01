@@ -178,4 +178,4 @@ awards:
 
 ## About Me
 
-I am a Political Communication researcher that employs Computational methods to address questions related to value-based and symbolic politics. I am currently working on  
+I am a Political Communication researcher with the Department of Sociology and Political Science at the Norwegian University of Science and Technology (NTNU). At NTNU I have been involved in the LEGACIES project-mapping historical states in Africa and Asia on modern day coordinates. Here, I have completed my PhD work in political communication, centered around developing a theory of cultural resonance. Cultural resonance specifically pertains to understanding how individuals react to political and media communication within the context of shared cultural knowledge. My research interests include framing processes, symbolic- and value-based politics, moral emotions, and the integration of computational social science approaches with semiotic analysis.
