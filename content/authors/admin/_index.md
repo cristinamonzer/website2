@@ -123,15 +123,15 @@ skills:
     items:
       - name: Statistical modeling
         description: 'multilevel models, negative binomial regressions'
-        percent: 95
+        percent: 90
         icon: table-cells
       - name: Qualitative text analysis
         description: '(linguistic) discourse analysis, grounded theory'
-        percent: 95
+        percent: 90
         icon: rectangle-group
       - name: Qualitative data collection
         description: 'interviews, focus groups'
-        percent: 95
+        percent: 90
         icon: users
 
 languages:
