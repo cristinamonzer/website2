@@ -13,7 +13,7 @@ abstract: 'This study investigates how values shape user responses to political 
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-09-24T13:00:00Z'
 date_end: '2024-09-27T15:00:00Z'
-all_day: False
+all_day: True
 
 # Schedule page publish date (NOT talk date).
 publishDate: ''
@@ -27,7 +27,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**]()'
+  caption: ''
   focal_point: Right
 
 #links:
