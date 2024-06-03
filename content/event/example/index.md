@@ -1,5 +1,5 @@
 ---
-title: "Conference presentation"
+title: Conference presentation
 
 event: ECREA 2024 Communication & social (dis)order
 event_url: https://ecrea2024ljubljana.eu/

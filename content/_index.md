@@ -52,7 +52,7 @@ sections:
       title: Upcoming Talks & Presentations
       filters:
         folders:
-          - event
+          - example
     design:
       view: article-grid
       columns: 1
