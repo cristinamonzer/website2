@@ -1,13 +1,13 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Cultural resonance
+date: 2019-02-01
+external_link: ''
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - framing
+  - values
+  - culture
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Processes of cultural resonance are explored within the realm of political and media communication, drawing on insights from semiotics, cultural studies, and social psychology. Cultural resonance, identified as a key factor in the effectiveness of messages, is unpacked through an analysis of cultural symbols and values expressed in social media posts, collectively termed as cultural carriers.
 
 <!--more-->
