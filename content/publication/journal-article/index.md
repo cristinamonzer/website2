@@ -39,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773291
+url_pdf: https://www.tandfonline.com/doi/epdf/10.1080/21670811.2020.1773291?needAccess=true
 url_code: ''
 url_dataset: ''
 url_poster: ''
