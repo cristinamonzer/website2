@@ -107,11 +107,11 @@ skills:
     items:
       - name: Python
         description: 'NLP, unsupervised and supervised ML'
-        percent: 75
+        percent: 80
         icon: python
       - name: R
         description: 'multilevel data analysis, data visualization'
-        percent: 75
+        percent: 80
         icon: code-bracket
       - name: QGIS
         description: 'georeferencing historical maps'
@@ -127,7 +127,7 @@ skills:
         icon: table-cells
       - name: Qualitative text analysis
         description: '(linguistic) discourse analysis, grounded theory'
-        percent: 90
+        percent: 80
         icon: rectangle-group
       - name: Qualitative data collection
         description: 'interviews, focus groups'
