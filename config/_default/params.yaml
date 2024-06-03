@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Cristina Monzer. This work is licensed under {license}'
+    notice: '© {year} Cristina Monzer. Photos by Timothy Hales Bennett, Jason Leung, NOAA, and visuals on Unsplash. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
