@@ -28,7 +28,6 @@ summary: ''
 
 tags:
 - emotional appeals
-- political communication strategies
 - user engagement
 - Brexit
 - Facebook
