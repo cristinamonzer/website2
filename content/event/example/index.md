@@ -6,7 +6,7 @@ event_url: https://ecrea2024ljubljana.eu/
 
 location: Ljubljana, Slovenia
 
-summary: Paper presentation at ECREA 2024 on persuasive political communication.
+summary: Paper presentation at ECREA 2024
 abstract: 'This study investigates how values shape user responses to political messages, specifically within the context of British political communication on Facebook. Data was collected between May 2020 - April 2021, comprising 1,727 posts and 3,216,367 comments. The analysis employed Concept Mover's Distance, a word embeddings-based method, to measure whether posts and comments referenced individualist—stimulation, hedonism, self-direction, or collectivist—tradition, security, and conformity, values. Two types of cultural resonance responses were identified, namely comments aligning, and comments deviating from the value reference of the post. The results indicate distinct prevalence patterns of value references within political posts, with a specific focus on the impact that each value has on user responses. Overall, value references in political posts generate aligning value-based responses from users. In addition, users regularly deviate from the intended message by responding with a different value reference than the one used in the post. These insights point towards the need to better understand and navigate the complexities of cultural resonance in the digital age.'
 
 # Talk start and end times.
