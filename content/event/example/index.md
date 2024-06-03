@@ -1,28 +1,22 @@
 ---
-title: Example Talk
+title: Conference presentation
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: ECREA 2024 Communication & social (dis)order
+event_url: https://ecrea2024ljubljana.eu/
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Ljubljana, Slovenia
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Paper presentation at ECREA 2024 on persuasive political communication.
+abstract: 'This study investigates how values shape user responses to political messages, specifically within the context of British political communication on Facebook. Data was collected between May 2020 - April 2021, comprising 1,727 posts and 3,216,367 comments. The analysis employed Concept Mover's Distance, a word embeddings-based method, to measure whether posts and comments referenced individualist—stimulation, hedonism, self-direction, or collectivist—tradition, security, and conformity, values. Two types of cultural resonance responses were identified, namely comments aligning, and comments deviating from the value reference of the post. The results indicate distinct prevalence patterns of value references within political posts, with a specific focus on the impact that each value has on user responses. Overall, value references in political posts generate aligning value-based responses from users. In addition, users regularly deviate from the intended message by responding with a different value reference than the one used in the post. These insights point towards the need to better understand and navigate the complexities of cultural resonance in the digital age.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: '2024-09-24T13:00:00Z'
+date_end: '2024-09-27T15:00:00Z'
+all_day: True
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 authors:
   - admin
@@ -33,7 +27,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**]()'
   focal_point: Right
 
 #links:
@@ -41,10 +35,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: ''
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_slides: ''
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -59,7 +53,7 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - example
+  - resonance
 ---
 
 {{% callout note %}}

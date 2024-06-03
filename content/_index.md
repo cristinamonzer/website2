@@ -49,7 +49,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Upcoming Talks & Presentations
       filters:
         folders:
           - event
