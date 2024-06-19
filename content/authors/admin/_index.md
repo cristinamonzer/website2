@@ -56,7 +56,7 @@ education:
       My dissertation investigates political and media communication on social media during Covid-19 and its effects on audiences -- Aligning and deviating voices: Toward a theory of cultural resonance in political communication. Supervised by [Stefan Geiss](https://www.ntnu.no/ansatte/stefan.geiss).
     button:
       text: 'Read Dissertation'
-      url: 'https://example.com'
+      url: ''
   - area: M.Sc. Communication Science
     institution: University of Amsterdam
     date_start: 2016-09-01
@@ -110,7 +110,7 @@ skills:
         percent: 80
         icon: python
       - name: R
-        description: 'multilevel data analysis, data visualization'
+        description: 'multilevel data analysis, data wrangling & visualization'
         percent: 80
         icon: code-bracket
       - name: QGIS
@@ -122,7 +122,7 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Statistical modeling
-        description: 'multilevel models, negative binomial regressions'
+        description: 'multilevel models, negative binomial regression'
         percent: 90
         icon: table-cells
       - name: Qualitative text analysis
@@ -130,7 +130,7 @@ skills:
         percent: 80
         icon: rectangle-group
       - name: Qualitative data collection
-        description: 'interviews, focus groups'
+        description: '(expert) interviews, focus groups'
         percent: 90
         icon: users
 
