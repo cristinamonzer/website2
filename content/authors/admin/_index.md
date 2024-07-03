@@ -111,7 +111,7 @@ skills:
         description: 'NLP, unsupervised and supervised ML'
         percent: 80
         icon: python
-      - name: gLLMs
+      - name: LLMs
         description: 'classification tasks for text analysis, sentiment analysis, topic modeling'
         percent: 80
         icon: revoltdotchat
