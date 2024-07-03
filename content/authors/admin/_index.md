@@ -44,6 +44,8 @@ profiles:
 
 interests:
   - Symbolic and value-based politics
+  - Political & media communication
+  - Social media
   - Semiotics
   - Computational methods
 
@@ -109,6 +111,10 @@ skills:
         description: 'NLP, unsupervised and supervised ML'
         percent: 80
         icon: python
+      - name: gLLMs
+        description: 'classification tasks for text analysis, sentiment analysis, topic modeling'
+        percent: 80
+        icon: revoltdotchat
       - name: R
         description: 'multilevel data analysis, data wrangling & visualization'
         percent: 80
@@ -174,4 +180,4 @@ awards:
 
 ## About Me
 
-I am a Political Communication researcher with the Department of Sociology and Political Science at the Norwegian University of Science and Technology (NTNU). At NTNU I have been involved in the LEGACIES project-mapping historical states in Africa and Asia on modern day coordinates. Here, I have completed my PhD work in political communication, centered around developing a theory of cultural resonance. Cultural resonance specifically pertains to understanding how individuals react to political and media communication within the context of shared cultural knowledge. My research interests include framing processes, symbolic- and value-based politics, moral emotions, and the integration of computational social science approaches with semiotic analysis.
+I am a Political Communication researcher with the Department of Sociology and Political Science at the Norwegian University of Science and Technology (NTNU). At NTNU I have been involved in the LEGACIES project-mapping historical states in Africa and Asia on modern day coordinates. Here, I completed my PhD work in political communication, centered around developing a theory of cultural resonance. Cultural resonance specifically pertains to understanding how individuals react to political and media communication within the context of shared cultural knowledge. My research interests include framing processes, symbolic- and value-based politics, moral emotions, and the integration of computational social science approaches with semiotic analysis.
