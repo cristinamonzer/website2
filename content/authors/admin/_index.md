@@ -114,7 +114,7 @@ skills:
       - name: LLMs
         description: 'classification tasks for text analysis, sentiment analysis, topic modeling'
         percent: 80
-        icon: revoltdotchat
+        icon: open-data
       - name: R
         description: 'multilevel data analysis, data wrangling & visualization'
         percent: 80
@@ -139,7 +139,10 @@ skills:
         description: '(expert) interviews, focus groups'
         percent: 90
         icon: users
-
+      - name: ''
+        description: ''
+        percent: 0
+        icon: ''
 languages:
   - name: Romanian
     percent: 100
