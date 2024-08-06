@@ -49,13 +49,13 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Upcoming Talks & Presentations
+      title: Talks & Presentations
       filters:
         folders:
           - event
     design:
       view: article-grid
-      columns: 1
+      columns: 2
   - block: collection
     id: projects
     content:
