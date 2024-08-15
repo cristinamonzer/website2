@@ -62,7 +62,7 @@ education:
   - area: M.Sc. Communication Science
     institution: University of Amsterdam
     date_start: 2016-09-01
-    date_end: 2020-08-31
+    date_end: 2018-08-31
     summary: |
       Grade: 7.8
 
