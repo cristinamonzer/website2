@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cristina Monzer
+title: Cristina Monzer, PhD
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:cristina.monzer@ntnu.no'
+    url: 'mailto:cristina.monzer@cmonzer.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/CristinaMonzer
