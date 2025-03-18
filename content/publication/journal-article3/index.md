@@ -2,12 +2,12 @@
 title: "The role of value references in shaping cultures of engagement: evidence from COVID-19 news in Romania and the U.K."
 authors:
 - admin
-- Daniela V. Dimitrova
+- Daniela V Dimitrova
 author_notes:
 - ""
 - ""
-date: "2022-02-17T00:00:00Z"
-doi: "https://doi.org/10.17645/pag.v10i1.4758"
+date: "2024-12-09T00:00:00Z"
+doi: "https://doi.org/10.1093/hcr/hqae021"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-06-03T00:00:00Z"
@@ -58,7 +58,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: resonance
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
