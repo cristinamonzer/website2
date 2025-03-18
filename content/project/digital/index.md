@@ -1,7 +1,7 @@
 ---
 title: Digital identity and politics
 date: 2025-01-01
-external_link: 'https://www.asc.upenn.edu/people/faculty/cristina-monzer-phd'
+external_link: ''
 tags:
   - identity on social media
   - self-presentation vs perceptions of identity
