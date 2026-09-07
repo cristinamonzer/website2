@@ -33,8 +33,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:cristina.monzer@asc.upenn.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/CristinaMonzer
   - icon: brands/github
     url: https://github.com/cristinamonzer
   - icon: academicons/google-scholar
@@ -183,6 +181,8 @@ awards:
 ---
 
 ## About Me
+MY WEBSITE IS CURRENTLY RECEIVING A FACELIFT :)
+Please refer to my Annenberg page, ORCID profile, or Google Scholar for up-to-date information on my current work. Updates will follow soon!
 
 I am a Postdoctoral Fellow in the Politics, Identity and Communication Lab (PICL). My research examines how identity, social media platforms, and political communication impact political engagement. Specifically, I investigate how social media platforms privilege certain identities in contemporary political debates, developing methodological frameworks to analyze identity markers in multimodal content using computational social science techniques. My current work focuses on identifying user strategies for self-presentation on TikTok. I study how group identities—such as political identity, nationality, and gender—become visible through societal symbols and values, examining how these elements shape public interpretation of current issues.
 
